@@ -1,0 +1,65 @@
+body{
+    background-color:black;
+}
+.topright {
+    position: absolute;
+    top: 0;
+    left: 30px;
+    font-size: 20px;}
+
+
+@font-face {
+    font-family: 'head';
+    src: url(font/coolvetica/coolvetica\ rg.otf);
+    
+}
+h1{
+    color: white; 
+    font-family:head;
+    top: 10%;
+    font-size: 40px;
+    
+}
+
+@font-face{
+    
+    font-family: 'paragraph';
+    src:url(font/made_carving_soft/MADECarvingSoftPERSONALUSE-Medium.otf);
+}
+
+.paragraph {
+    position: absolute;
+    top: 50%;
+    left: 100px;
+    font-size: 24px;
+    font-family: paragraph;
+}
+
+@font-face{
+    
+    font-family: 'name';
+    src:url(font/PLANK___.TTF);
+}
+
+h3{
+    color: white;
+    
+    font-family: name;
+}
+
+.opacityimg{
+    -moz-user-select: none;
+    -webkit-user-select: none;
+    user-select: none;
+    opacity: 0.2;
+    top: 500px;
+}
+
+.me{
+    
+    position: absolute;
+    top: 5%;
+    right:150px ;
+}
+    
+

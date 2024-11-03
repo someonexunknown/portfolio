@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="2000" height="2000" viewBox="0 0 2000 2000">
+  <defs>
+    <style>
+      .cls-1 {
+        font-size: 300px;
+        font-family: Morganite;
+        font-weight: 800;
+        font-style: italic;
+        text-transform: uppercase;
+      }
+
+      .cls-2 {
+        font-weight: 300;
+      }
+
+      .cls-3 {
+        fill: none;
+        stroke: #000;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        stroke-width: 113.84px;
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <text id="DATA_SCIENCE" data-name="DATA SCIENCE" class="cls-1" transform="translate(710.93 1198.314) scale(1.844)">DATA <tspan class="cls-2">SCIENCE</tspan></text>
+  <path id="Line_4" data-name="Line 4" class="cls-3" d="M85,794v-1H654v1H85Z"/>
+  <path id="Line_4_copy" data-name="Line 4 copy" class="cls-3" d="M146,937v-1H593v1H146Z"/>
+  <path id="Line_4_copy_2" data-name="Line 4 copy 2" class="cls-3" d="M252,1075v-1H487v1H252Z"/>
+  <path id="Line_4_copy_3" data-name="Line 4 copy 3" class="cls-3" d="M370.393,1215v1H370v-1h0.393Z"/>
+</svg>
